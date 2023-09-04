@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02ConnectionString", "02Con
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_ExecuteRowSql", "02_ExecuteRowSql\02_ExecuteRowSql.csproj", "{421368B7-95A5-493C-94D2-E770FA33700B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_InsertRowSql", "02_InsertRowSql\02_InsertRowSql.csproj", "{B73EEE34-C42F-474F-9ADB-CD1194F185BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{421368B7-95A5-493C-94D2-E770FA33700B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{421368B7-95A5-493C-94D2-E770FA33700B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{421368B7-95A5-493C-94D2-E770FA33700B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B73EEE34-C42F-474F-9ADB-CD1194F185BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73EEE34-C42F-474F-9ADB-CD1194F185BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73EEE34-C42F-474F-9ADB-CD1194F185BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73EEE34-C42F-474F-9ADB-CD1194F185BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
