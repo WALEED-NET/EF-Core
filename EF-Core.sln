@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_InsertRowSql", "02_Inser
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_InsertRowSql_Scaler", "02_InsertRowSql_Scaler\02_InsertRowSql_Scaler.csproj", "{617FB2C7-45DE-4C06-B45D-DACDC177F18D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertStoredProcedure", "InsertStoredProcedure\InsertStoredProcedure.csproj", "{39DECA7E-D0D4-4059-8A87-8F5194F31786}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02UpdateRawSql", "_02UpdateRawSql\_02UpdateRawSql.csproj", "{37999489-06F3-45AD-ACA2-07A8879F58A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{617FB2C7-45DE-4C06-B45D-DACDC177F18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{617FB2C7-45DE-4C06-B45D-DACDC177F18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{617FB2C7-45DE-4C06-B45D-DACDC177F18D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39DECA7E-D0D4-4059-8A87-8F5194F31786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39DECA7E-D0D4-4059-8A87-8F5194F31786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39DECA7E-D0D4-4059-8A87-8F5194F31786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39DECA7E-D0D4-4059-8A87-8F5194F31786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37999489-06F3-45AD-ACA2-07A8879F58A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37999489-06F3-45AD-ACA2-07A8879F58A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37999489-06F3-45AD-ACA2-07A8879F58A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37999489-06F3-45AD-ACA2-07A8879F58A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
