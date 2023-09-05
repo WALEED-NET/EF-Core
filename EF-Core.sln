@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_ExecuteRowSql", "02_Exec
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_InsertRowSql", "02_InsertRowSql\02_InsertRowSql.csproj", "{B73EEE34-C42F-474F-9ADB-CD1194F185BB}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_InsertRowSql_Scaler", "02_InsertRowSql_Scaler\02_InsertRowSql_Scaler.csproj", "{617FB2C7-45DE-4C06-B45D-DACDC177F18D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B73EEE34-C42F-474F-9ADB-CD1194F185BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B73EEE34-C42F-474F-9ADB-CD1194F185BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B73EEE34-C42F-474F-9ADB-CD1194F185BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{617FB2C7-45DE-4C06-B45D-DACDC177F18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617FB2C7-45DE-4C06-B45D-DACDC177F18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617FB2C7-45DE-4C06-B45D-DACDC177F18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617FB2C7-45DE-4C06-B45D-DACDC177F18D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
