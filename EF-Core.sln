@@ -27,6 +27,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_03Dapper", "_03Dapper", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_ExecuteRawSql", "_03Dapper\03_ExecuteRawSql\03_ExecuteRawSql.csproj", "{F9293655-E5BE-4A15-8CC5-89D786A68C8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_SimpleInsert", "03_SimpleInsert\03_SimpleInsert.csproj", "{8B67532E-A8AB-4BC5-A54B-8E557AA177F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,10 @@ Global
 		{F9293655-E5BE-4A15-8CC5-89D786A68C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9293655-E5BE-4A15-8CC5-89D786A68C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9293655-E5BE-4A15-8CC5-89D786A68C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B67532E-A8AB-4BC5-A54B-8E557AA177F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B67532E-A8AB-4BC5-A54B-8E557AA177F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B67532E-A8AB-4BC5-A54B-8E557AA177F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B67532E-A8AB-4BC5-A54B-8E557AA177F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -88,6 +94,7 @@ Global
 		{EFBECC70-35A7-4A25-ACE6-D809D6CA8390} = {CE7C4DDD-5112-4A75-94C1-101EDD89B8C4}
 		{35C47633-5A0B-4B01-9B47-475E21BB6113} = {CE7C4DDD-5112-4A75-94C1-101EDD89B8C4}
 		{F9293655-E5BE-4A15-8CC5-89D786A68C8E} = {484BEE13-E088-4812-B4F1-272E4F946B4F}
+		{8B67532E-A8AB-4BC5-A54B-8E557AA177F0} = {484BEE13-E088-4812-B4F1-272E4F946B4F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BB74BAF6-EBAA-4AC1-833E-3FF70EE688A4}
