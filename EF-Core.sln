@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_InsertRawReturnIdentity"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03ExecuteUpdate", "_03Dapper\_03ExecuteUpdate\_03ExecuteUpdate.csproj", "{7A8FD252-20BC-403D-B2DF-FF145480AAE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03ExcuteDelete", "_03Dapper\_03ExcuteDelete\_03ExcuteDelete.csproj", "{15A02B4A-262B-4577-A1E3-5EF080BC6AB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,10 @@ Global
 		{7A8FD252-20BC-403D-B2DF-FF145480AAE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A8FD252-20BC-403D-B2DF-FF145480AAE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A8FD252-20BC-403D-B2DF-FF145480AAE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15A02B4A-262B-4577-A1E3-5EF080BC6AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A02B4A-262B-4577-A1E3-5EF080BC6AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A02B4A-262B-4577-A1E3-5EF080BC6AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A02B4A-262B-4577-A1E3-5EF080BC6AB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -109,6 +115,7 @@ Global
 		{8B67532E-A8AB-4BC5-A54B-8E557AA177F0} = {484BEE13-E088-4812-B4F1-272E4F946B4F}
 		{73F4106A-24C8-417B-AC3A-687CAAAE2794} = {484BEE13-E088-4812-B4F1-272E4F946B4F}
 		{7A8FD252-20BC-403D-B2DF-FF145480AAE3} = {484BEE13-E088-4812-B4F1-272E4F946B4F}
+		{15A02B4A-262B-4577-A1E3-5EF080BC6AB4} = {484BEE13-E088-4812-B4F1-272E4F946B4F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BB74BAF6-EBAA-4AC1-833E-3FF70EE688A4}
